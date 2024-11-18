@@ -1,4 +1,4 @@
-![Gradient Background](./gitbg.png)
+<div style="background-image: url('./gitbg.png'); background-size: cover; background-position: center; padding: 20px; border-radius: 10px; color: white;">
 
 # 👋 Hi, I'm Ayan!
 
@@ -18,15 +18,17 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 ---
 
 ## 🚀 Ongoing Projects  
-- **Farmer Management Application**: Crafting an interactive and visually appealing platform for grievance adressal for farmers.  
+- **Farmer Management Application**: Crafting an interactive and visually appealing platform for grievance addressal for farmers.  
 - **GPA Calculator**: Simplifying academic grade calculations for students.  
 - **MIST Website Redesign**: Enhancing the online presence of the Manipal Information Security Team with a sleek and modern interface.  
-- **Dog Breed Identifier**: A Flask web app utilizing AI to recognize dog breeds from images.
-- **Bulk virus Analyzer**: An app that uses APIs to analyze virus in  bulk against multiple anti-virus engines.
+- **Dog Breed Identifier**: A Flask web app utilizing AI to recognize dog breeds from images.  
+- **Bulk Virus Analyzer**: An app that uses APIs to analyze viruses in bulk against multiple anti-virus engines.
+
 ---
 
 ## 📫 Connect with Me  
 Feel free to explore my repositories or reach out to collaborate.  
-- Email: ayansingh17.2004@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/ayan-singh-a16a06280/  
+- **Email:** [ayansingh17.2004@gmail.com](mailto:ayansingh17.2004@gmail.com)  
+- **LinkedIn:** [Ayan Singh](https://www.linkedin.com/in/ayan-singh-a16a06280/)  
 
+</div>
