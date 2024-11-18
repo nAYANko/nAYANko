@@ -1,6 +1,6 @@
 <div style="background: linear-gradient(135deg, #D85051, #FFF5F5); padding: 20px; border-radius: 10px;">
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Ayan!
 
 Welcome to my GitHub profile! I'm passionate about technology and enjoy working on projects that make a difference.  
 
@@ -18,17 +18,16 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 ---
 
 ## 🚀 Ongoing Projects  
-- **SmartTherapy**: Digitizing clinical services for speech-language therapy to streamline patient management and therapy processes.  
-- **Travel Agency Website**: Crafting an interactive and visually appealing platform for booking travel experiences.  
+- **Farmer Management Application**: Crafting an interactive and visually appealing platform for grievance adressal for farmers.  
 - **GPA Calculator**: Simplifying academic grade calculations for students.  
 - **MIST Website Redesign**: Enhancing the online presence of the Manipal Information Security Team with a sleek and modern interface.  
 - **Dog Breed Identifier**: A Flask web app utilizing AI to recognize dog breeds from images.
-
+- **Bulk virus Analyzer**: An app that uses APIs to analyze virus in  bulk against multiple anti-virus engines.
 ---
 
 ## 📫 Connect with Me  
 Feel free to explore my repositories, contribute to projects, or reach out to collaborate.  
-- Email: [Your Email]  
-- LinkedIn: [Your LinkedIn Profile]  
+- Email: ayansingh17.2004@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/ayan-singh-a16a06280/  
 
 </div>
