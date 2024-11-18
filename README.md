@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 ---
 
 ## 🌟 About Me  
-- **Name:** [Your Name]  
+- **Name:** Ayan Singh  
 - **Interests:**  
   - 🌐 Web Development  
   - 🧠 Machine Learning  
