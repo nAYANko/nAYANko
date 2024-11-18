@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(135deg, #D85051, #FFF5F5); padding: 20px; border-radius: 10px;">
+![Gradient Background](./gitbg.png)
 
 # 👋 Hi, I'm Ayan!
 
@@ -30,4 +30,3 @@ Feel free to explore my repositories or reach out to collaborate.
 - Email: ayansingh17.2004@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/ayan-singh-a16a06280/  
 
-</div>
