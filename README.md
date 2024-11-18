@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 ---
 
 ## 📫 Connect with Me  
-Feel free to explore my repositories, contribute to projects, or reach out to collaborate.  
+Feel free to explore my repositories or reach out to collaborate.  
 - Email: ayansingh17.2004@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/ayan-singh-a16a06280/  
 
