@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 ## 📫 Connect with Me  
 Feel free to explore my repositories or reach out to collaborate.  
 - **Email:** [ayansingh17.2004@gmail.com](mailto:ayansingh17.2004@gmail.com)  
-- **LinkedIn:** [Ayan Singh](https://www.linkedin.com/in/ayan-singh-a16a06280/)  
+- **LinkedIn:** [Ayan Singh](https://www.linkedin.com/in/ayan-singh-a16a06280/)
+- **Portfolio:** (https://ayansingh.netlify.app/)
 
 </div>
